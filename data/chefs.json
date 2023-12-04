@@ -137,9 +137,9 @@
      },
    
      {
-       "id": 5,
-       "picture": "https://i.ibb.co/WvFpcNH/photo-1581299894007-aaa50297cf16-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
-       "name": "Chef Wei Chen",
+       "chef_id": 5,
+       "chef_picture": "https://i.ibb.co/WvFpcNH/photo-1581299894007-aaa50297cf16-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "chef_name": "Chef Wei Chen",
        "years_of_experience": 14,
        "number_of_recipes": 65,
        "likes": 1300,
@@ -171,9 +171,9 @@
      },
    
      {
-       "id": 6,
-       "picture": "https://i.ibb.co/2PnTt4p/photo-1583394293214-28ded15ee548-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
-       "name": "Chef Hong Liu",
+       "chef_id": 6,
+       "chef_picture": "https://i.ibb.co/2PnTt4p/photo-1583394293214-28ded15ee548-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "chef_name": "Chef Hong Liu",
        "years_of_experience": 11,
        "number_of_recipes": 77,
        "likes": 1100,
