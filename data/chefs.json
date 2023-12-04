@@ -1,0 +1,213 @@
+
+
+[
+
+    {
+         "chef_id": 1,
+         "chef_picture": "https://i.ibb.co/VWKTZt1/photo-1654922207993-2952fec328ae-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg" ,
+         "chef_name": "Chef Mei Lin",
+         "years_of_experience": 12,
+         "number_of_recipes": 30,
+         "likes": 1200,
+         "bio": "Expert in traditional Chinese cuisine with a modern twist, bringing flavors from different regions of China.",
+         "recipes": [
+           {
+             "recipe_id": 11,
+             "recipe_name": "Peking Duck Pancakes",
+             "ingredients": ["Peking duck", "Pancakes", "Hoisin sauce", "Cucumber", "Green onions", "Sesame oil"],
+             "cooking_method": "Roast Peking duck until crispy, serve with thin pancakes, hoisin sauce, sliced cucumber, and green onions. Drizzle with sesame oil.",
+             "rating": 4.8
+           },
+           {
+             "recipe_id": 2,
+             "recipe_name": "Sichuan Mapo Tofu",
+             "ingredients": ["Tofu", "Ground pork", "Sichuan peppercorns", "Chili bean paste", "Green onions", "Soy sauce"],
+             "cooking_method": "Cook tofu and ground pork in a spicy sauce made with Sichuan peppercorns and chili bean paste. Garnish with green onions.",
+             "rating": 4.9
+           },
+           {
+             "recipe_id": 13,
+             "recipe_name": "Shanghai Soup Dumplings (Xiao Long Bao)",
+             "ingredients": ["Ground pork", "Ginger", "Soy sauce", "Dumpling wrappers", "Chicken broth", "Gelatin"],
+             "cooking_method": "Fill dumpling wrappers with a mixture of ground pork, ginger, and soy sauce. Steam dumplings over chicken broth with gelatin for a soupy filling.",
+             "rating": 4.7
+           } ]
+   
+    },
+   
+    {
+       "chef_id": 2,
+       "chef_picture": "https://i.ibb.co/BcZ4Sqp/photo-1577219491135-ce391730fb2c-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "chef_name": "Chef Jian Wang",
+       "years_of_experience": 15,
+       "number_of_recipes": 33,
+       "likes": 1500,
+       "bio": "Mastery of Sichuan and Hunan dishes, known for bold and spicy flavors that excite the taste buds.",
+       "recipes": [
+           {
+               "recipe_id": 21,
+               "recipe_name": "Hot and Sour Noodles",
+               "ingredients": ["Thin noodles", "Vinegar", "Soy sauce", "Sesame oil", "Chili oil", "Wood ear mushrooms"],
+               "cooking_method": "Cook noodles, toss with a sauce made of vinegar, soy sauce, sesame oil, and chili oil. Top with wood ear mushrooms.",
+               "rating": 4.5
+             },
+             {
+               "recipe_id": 22,
+               "recipe_name": "Hunan Spicy Chicken",
+               "ingredients": ["Chicken thighs", "Dried red chilies", "Garlic", "Ginger", "Soy sauce", "Sugar"],
+               "cooking_method": "Stir-fry chicken with dried red chilies, garlic, and ginger. Add a sauce made of soy sauce and sugar. Serve hot and spicy.",
+               "rating": 4.6
+             },
+             {
+               "recipe_id": 23,
+               "recipe_name": "Cantonese Sweet and Sour Fish",
+               "ingredients": ["White fish fillets", "Pineapple", "Bell peppers", "Sweet and sour sauce", "Cornstarch", "Rice vinegar"],
+               "cooking_method": "Coat fish fillets in cornstarch, fry until crispy. Make a sweet and sour sauce with pineapple, bell peppers, and rice vinegar. Pour over the fish.",
+               "rating": 4.8
+             }
+           ]
+    },
+   
+    {
+       "chef_id": 3,
+       "chef_picture": "https://i.ibb.co/FhQxh53/photo-1600565193348-f74bd3c7ccdf-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "chef_name": "Chef Li Na",
+       "years_of_experience": 10,
+       "number_of_recipes": 48,
+       "likes": 1000,
+       "bio": "Specializing in Cantonese cuisine, crafting delicate and flavorful dishes that celebrate freshness and balance.",
+       "recipes": [
+           {
+             "recipe_id": 31,
+             "recipe_name": "Peking Duck Pancakes",
+             "ingredients": ["Peking duck", "Pancakes", "Hoisin sauce", "Cucumber", "Green onions", "Sesame oil"],
+             "cooking_method": "Roast Peking duck until crispy, serve with thin pancakes, hoisin sauce, sliced cucumber, and green onions. Drizzle with sesame oil.",
+             "rating": 4.8
+           },
+           {
+             "recipe_id": 32,
+             "recipe_name": "Sichuan Mapo Tofu",
+             "ingredients": ["Tofu", "Ground pork", "Sichuan peppercorns", "Chili bean paste", "Green onions", "Soy sauce"],
+             "cooking_method": "Cook tofu and ground pork in a spicy sauce made with Sichuan peppercorns and chili bean paste. Garnish with green onions.",
+             "rating": 4.9
+           },
+           {
+             "recipe_id": 33,
+             "recipe_name": "Shanghai Soup Dumplings (Xiao Long Bao)",
+             "ingredients": ["Ground pork", "Ginger", "Soy sauce", "Dumpling wrappers", "Chicken broth", "Gelatin"],
+             "cooking_method": "Fill dumpling wrappers with a mixture of ground pork, ginger, and soy sauce. Steam dumplings over chicken broth with gelatin for a soupy filling.",
+             "rating": 4.7
+           } 
+       ]
+   
+     },
+   
+     {
+       "chef_id": 4,
+       "chef_picture": "https://i.ibb.co/C83zqhD/premium-photo-1661349726691-d5efab008d77-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-cro.jpg",
+       "chef_name": "Chef Xin Zhang",
+       "years_of_experience": 8,
+       "number_of_recipes": 55,
+       "likes": 800,
+       "bio": "Innovative chef bringing a contemporary twist to traditional Chinese street food, creating unique and memorable experiences.",
+       "recipes": [
+           {
+               "recipe_id": 41,
+               "recipe_name": "Hot and Sour Noodles",
+               "ingredients": ["Thin noodles", "Vinegar", "Soy sauce", "Sesame oil", "Chili oil", "Wood ear mushrooms"],
+               "cooking_method": "Cook noodles, toss with a sauce made of vinegar, soy sauce, sesame oil, and chili oil. Top with wood ear mushrooms.",
+               "rating": 4.5
+             },
+             {
+               "id": 42,
+               "recipe_name": "Hunan Spicy Chicken",
+               "ingredients": ["Chicken thighs", "Dried red chilies", "Garlic", "Ginger", "Soy sauce", "Sugar"],
+               "cooking_method": "Stir-fry chicken with dried red chilies, garlic, and ginger. Add a sauce made of soy sauce and sugar. Serve hot and spicy.",
+               "rating": 4.6
+             },
+             {
+               "id": 43,
+               "recipe_name": "Cantonese Sweet and Sour Fish",
+               "ingredients": ["White fish fillets", "Pineapple", "Bell peppers", "Sweet and sour sauce", "Cornstarch", "Rice vinegar"],
+               "cooking_method": "Coat fish fillets in cornstarch, fry until crispy. Make a sweet and sour sauce with pineapple, bell peppers, and rice vinegar. Pour over the fish.",
+               "rating": 4.8
+             }
+           ]
+   
+     },
+   
+     {
+       "id": 5,
+       "picture": "https://i.ibb.co/WvFpcNH/photo-1581299894007-aaa50297cf16-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "name": "Chef Wei Chen",
+       "years_of_experience": 14,
+       "number_of_recipes": 65,
+       "likes": 1300,
+       "bio": "Passionate about the diverse flavors of Chinese regional cuisines, showcasing a culinary journey through the provinces.",
+       "recipes": [
+           {
+               "recipe_id": 51,
+               "recipe_name": "Peking Duck Pancakes",
+               "ingredients": ["Peking duck", "Pancakes", "Hoisin sauce", "Cucumber", "Green onions", "Sesame oil"],
+               "cooking_method": "Roast Peking duck until crispy, serve with thin pancakes, hoisin sauce, sliced cucumber, and green onions. Drizzle with sesame oil.",
+               "rating": 4.5
+             },
+             {
+               "id": 52,
+               "recipe_name": "Hunan Spicy Chicken",
+               "ingredients": ["Chicken thighs", "Dried red chilies", "Garlic", "Ginger", "Soy sauce", "Sugar"],
+               "cooking_method": "Stir-fry chicken with dried red chilies, garlic, and ginger. Add a sauce made of soy sauce and sugar. Serve hot and spicy.",
+               "rating": 4.6
+             },
+             {
+               "id": 53,
+               "recipe_name": "Cantonese Sweet and Sour Fish",
+               "ingredients": ["White fish fillets", "Pineapple", "Bell peppers", "Sweet and sour sauce", "Cornstarch", "Rice vinegar"],
+               "cooking_method": "Coat fish fillets in cornstarch, fry until crispy. Make a sweet and sour sauce with pineapple, bell peppers, and rice vinegar. Pour over the fish.",
+               "rating": 4.8
+             }
+           ]
+   
+     },
+   
+     {
+       "id": 6,
+       "picture": "https://i.ibb.co/2PnTt4p/photo-1583394293214-28ded15ee548-blend-000000-blend-alpha-10-blend-mode-normal-blend-w-1-crop-faces.jpg",
+       "name": "Chef Hong Liu",
+       "years_of_experience": 11,
+       "number_of_recipes": 77,
+       "likes": 1100,
+       "bio": "Experienced chef specializing in crafting exquisite dim sum and noodle dishes, perfecting the art of Chinese comfort food.",
+       "recipes": [
+           {
+               "recipe_id": 61,
+               "recipe_name": "Hot and Sour Noodles",
+               "ingredients": ["Thin noodles", "Vinegar", "Soy sauce", "Sesame oil", "Chili oil", "Wood ear mushrooms"],
+               "cooking_method": "Cook noodles, toss with a sauce made of vinegar, soy sauce, sesame oil, and chili oil. Top with wood ear mushrooms.",
+               "rating": 4.5
+             },
+             {
+               "recipe_id": 62,
+               "recipe_name": "Sichuan Mapo Tofu",
+               "ingredients": ["Tofu", "Ground pork", "Sichuan peppercorns", "Chili bean paste", "Green onions", "Soy sauce"],
+               "cooking_method": "Cook tofu and ground pork in a spicy sauce made with Sichuan peppercorns and chili bean paste. Garnish with green onions.",
+               "rating": 4.9
+             },
+             {
+               "recipe_id": 63,
+               "recipe_name": "Cantonese Sweet and Sour Fish",
+               "ingredients": ["White fish fillets", "Pineapple", "Bell peppers", "Sweet and sour sauce", "Cornstarch", "Rice vinegar"],
+               "cooking_method": "Coat fish fillets in cornstarch, fry until crispy. Make a sweet and sour sauce with pineapple, bell peppers, and rice vinegar. Pour over the fish.",
+               "rating": 4.8
+             }
+           ]
+   
+     }
+   
+   
+   ]
+   
+   
+   
+   
+   
