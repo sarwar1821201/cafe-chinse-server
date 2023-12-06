@@ -2,11 +2,23 @@ const express= require('express');
 const app= express();
 const cors=require('cors');
 
-const port= process.env.PORT || 5000;
+const port= process.env.PORT || 3000;
 
 const chef=require('./data/chefs.json');
 
-app.use(cors());
+// app.use(cors());
+
+const options = [
+    cors({
+      origin: '*',
+      methods: '*',
+      allowedHeaders: ['Content-Type', 'Authorization'],
+      credentials: true,
+    })
+  ];
+  
+  app.use(options);
+  
 
 app.get('/', (req,res)=>{
     res.send('our cafe is now running')
